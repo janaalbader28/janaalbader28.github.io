@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Data Analytics and Digital Transformation Specialist and a recent Computer Science graduate. I am focused on learning AI deeply and exploring ways to build interpretable, human-centered systems that connect technology with real human needs. I am also part of KAUST Academy continuous AI learning programs, further developing my skills and knowledge.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I envision creating AI that is transparent, responsible, and accessible, helping bridge the gap between innovation and social impact. My goal is to work on projects that solve meaningful problems and empower people, whether through research or industry applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am continuously exploring new areas in AI and data analytics, seeking opportunities to turn ideas into practical, responsible solutions that make a positive difference in the world.
