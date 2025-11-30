@@ -36,9 +36,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-teach-ai-how-to-code",
-          title: 'Teach AI How to Code',
-          description: "with background image",
+            },},{id: "projects-ai-code-tutor",
+          title: 'AI Code Tutor',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
