@@ -6,6 +6,9 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+thumbnail: /assets/img/projects/dash-1-thumb.jpg
+tags: [d3, react, dashboard]
+excerpt: "Interactive dashboard that visualizes sales trends and customer segmentation."
 ---
 
 Every project has a beautiful feature showcase page.
