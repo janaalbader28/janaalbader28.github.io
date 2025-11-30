@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/12.jpg
+img: "https://www.simplilearn.com/ice9/free_resources_article_thumb/project_management_coursefees.jpg"
 importance: 1
 category: work
 related_publications: true
