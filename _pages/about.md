@@ -32,3 +32,18 @@ I am a Data Analytics and Digital Transformation Specialist and a recent Compute
 I envision creating AI that is transparent, responsible, and accessible, helping bridge the gap between innovation and social impact. My goal is to work on projects that solve meaningful problems and empower people, whether through research or industry applications.
 
 I am continuously exploring new areas in AI and data analytics, seeking opportunities to turn ideas into practical, responsible solutions that make a positive difference in the world.
+
+<div class="about-social">
+  <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" aria-label="LinkedIn">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank" aria-label="Email">
+    <i class="fas fa-envelope fa-2x"></i>
+  </a>
+</div>
+
+<!-- Font Awesome CDN -->
+<script src="https://kit.fontawesome.com/yourkitcode.js" crossorigin="anonymous"></script>
