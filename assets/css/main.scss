@@ -23,26 +23,74 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-/* Project preview grid (keeps consistent look with publications) */
-.projects-preview { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:1rem; }
-
-.project-card {
-  background:#fff;
-  border-radius:12px;
-  overflow:hidden;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.03);
-  transition: transform .12s ease, box-shadow .12s ease;
+/* Horizontal paper-style layout */
+.papers-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
 }
 
-.project-card a { color: inherit; text-decoration:none; display:block; }
+/* Each row */
+.paper-row {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  background: #fff;
+  padding: 1.2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
 
-.project-card .thumb { width:100%; padding-top:56%; background-size:cover; background-position:center; }
+.paper-row:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.08);
+}
 
-.project-card .card-body { padding:0.8rem 1rem; }
-.project-card h4 { margin:0 0 .4rem; font-size:1.05rem; }
-.project-card .excerpt { margin:0; color:#555; font-size:0.95rem; }
+/* Image */
+.paper-thumb img {
+  width: 230px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
 
-.project-card:hover { transform: translateY(-6px); box-shadow: 0 12px 36px rgba(0,0,0,0.06); }
+/* Text content */
+.paper-info {
+  flex: 1;
+}
 
-.view-all { font-weight:600; text-decoration:none; }
+.paper-title {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.paper-desc {
+  margin: 0 0 0.8rem 0;
+  color: #555;
+  font-size: 0.96rem;
+}
+
+/* Buttons (Website, Demo, Slides, GitHub) */
+.paper-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.paper-btn {
+  padding: 0.35rem 0.7rem;
+  background: #f2f2f2;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  color: #444;
+  border: 1px solid #ddd;
+  transition: background 0.15s ease;
+}
+
+.paper-btn:hover {
+  background: #e6e6e6;
+}
