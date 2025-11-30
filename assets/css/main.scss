@@ -24,14 +24,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.paper-buttons {
-  border: 2px dashed red !important;
-}
-
-.paper-btn {
-  background: yellow !important;
-}
-
 /* Horizontal paper-style layout */
 .papers-list {
   display: flex;
