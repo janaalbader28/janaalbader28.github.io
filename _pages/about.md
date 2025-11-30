@@ -37,19 +37,19 @@ I am continuously exploring new areas in AI and data analytics, seeking opportun
 <div class="about-links" style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
 
   <!-- GitHub -->
-  <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub"
+  <a href="https://github.com/janaalbader28" target="_blank" aria-label="GitHub"
      style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; background-color: #f0f0f0; border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
     <i class="fab fa-github"></i>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" aria-label="LinkedIn"
+  <a href="https://www.linkedin.com/in/jana-albader" target="_blank" aria-label="LinkedIn"
      style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; background-color: #f0f0f0; border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
     <i class="fab fa-linkedin"></i>
   </a>
 
   <!-- Email -->
-  <a href="mailto:youremail@example.com" target="_blank" aria-label="Email"
+  <a href="mailto:jana.ab.albader@gmail" target="_blank" aria-label="Email"
      style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; background-color: #f0f0f0; border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
     <i class="fas fa-envelope"></i>
   </a>
