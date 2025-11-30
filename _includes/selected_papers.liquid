@@ -17,7 +17,6 @@
     <div class="projects-preview">
       {% for project in preview %}
         <article class="project-card">
-          <a href="{{ project.url | relative_url }}">
             {% assign thumb = project.img | default: project.thumbnail | default: '/assets/img/default-project.jpg' %}
             <div class="thumb" style="background-image: url('{{ thumb | relative_url }}');"></div>
 
