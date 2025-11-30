@@ -1,17 +1,18 @@
 ---
 layout: page
-title: project 1
 description: with background image
-img: "https://www.simplilearn.com/ice9/free_resources_article_thumb/project_management_coursefees.jpg"
-importance: 1
 category: work
-related_publications: true
 thumbnail: /assets/img/projects/dash-1-thumb.jpg
 tags: [d3, react, dashboard]
-excerpt: "Interactive dashboard that visualizes sales trends and customer segmentation."
-demo: "https://demo-link.com"
-github: "https://github.com/yourrepo"
-website: "https://projectwebsite.com"
+
+title: "Teach AI How to Code"
+importance: 1
+img: "https://www.simplilearn.com/ice9/free_resources_article_thumb/project_management_coursefees.jpg"
+excerpt: "Using LLMs as teachable agents for programming education."
+website: "https://example.com"
+demo: "https://example-demo.com"
+slides: "/assets/slides/teach-ai.pdf"
+github: "https://github.com/..."
 ---
 
 Every project has a beautiful feature showcase page.
