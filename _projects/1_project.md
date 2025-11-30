@@ -9,6 +9,9 @@ related_publications: true
 thumbnail: /assets/img/projects/dash-1-thumb.jpg
 tags: [d3, react, dashboard]
 excerpt: "Interactive dashboard that visualizes sales trends and customer segmentation."
+demo: "https://demo-link.com"
+github: "https://github.com/yourrepo"
+website: "https://projectwebsite.com"
 ---
 
 Every project has a beautiful feature showcase page.
