@@ -1,18 +1,12 @@
 ---
-layout: page
-description: with background image
-category: work
-thumbnail: /assets/img/projects/dash-1-thumb.jpg
-tags: [d3, react, dashboard]
-
-title: "Teach AI How to Code"
+title: AI Code Tutor
 importance: 1
-img: "https://www.simplilearn.com/ice9/free_resources_article_thumb/project_management_coursefees.jpg"
-excerpt: "Using LLMs as teachable agents for programming education."
+img: /assets/img/p1.png
+excerpt: Brief description of your project.
 website: "https://example.com"
-demo: "https://example-demo.com"
-slides: "/assets/slides/teach-ai.pdf"
-github: "https://github.com/..."
+demo: "https://demo.com"
+slides: "/assets/slides.pdf"
+github: "https://github.com/example"
 ---
 
 Every project has a beautiful feature showcase page.
