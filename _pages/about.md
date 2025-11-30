@@ -33,17 +33,24 @@ I envision creating AI that is transparent, responsible, and accessible, helping
 
 I am continuously exploring new areas in AI and data analytics, seeking opportunities to turn ideas into practical, responsible solutions that make a positive difference in the world.
 
-<div class="about-social">
-  <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub">
-    <i class="fab fa-github fa-2x"></i>
+
+<div class="about-links" style="display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/yourusername" target="_blank" aria-label="GitHub" style="color: inherit; text-decoration: none; font-size: 1.5rem;">
+    <i class="fab fa-github"></i>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" aria-label="LinkedIn">
-    <i class="fab fa-linkedin fa-2x"></i>
+
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" aria-label="LinkedIn" style="color: inherit; text-decoration: none; font-size: 1.5rem;">
+    <i class="fab fa-linkedin"></i>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank" aria-label="Email">
-    <i class="fas fa-envelope fa-2x"></i>
+
+  <a href="mailto:youremail@example.com" target="_blank" aria-label="Email" style="color: inherit; text-decoration: none; font-size: 1.5rem;">
+    <i class="fas fa-envelope"></i>
+  </a>
+
+  <a href="link-to-your-CV.pdf" target="_blank" style="padding: 0.5rem 1rem; background-color: #f0f0f0; border-radius: 5px; text-decoration: none; color: inherit; font-weight: 500; font-size: 1rem;">
+    CV
   </a>
 </div>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 2rem 0;">
 
-<!-- Font Awesome CDN -->
 <script src="https://kit.fontawesome.com/yourkitcode.js" crossorigin="anonymous"></script>
