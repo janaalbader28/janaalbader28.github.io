@@ -6,7 +6,7 @@
   - Link opens the project's page
 {%- endcomment -%}
 
-<div class="publications">  {# keep same outer class so layout/styling remains consistent #}
+<div class="publications">  
 
   {% assign all_projects = site.projects | sort: "importance" | reverse %}
   {% assign preview = all_projects | where_exp: "p", "p.importance != nil" | slice: 0, 3 %}
