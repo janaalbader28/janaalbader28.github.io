@@ -6,7 +6,7 @@
   - Link opens the project's page
 {%- endcomment -%}
 
-<div class="publications"> 
+<div class="papers-list">
 
   {% assign all_projects = site.projects | sort: "importance" | reverse %}
   {% assign preview = all_projects | where_exp: "p", "p.importance != nil" | slice: 0, 3 %}
@@ -14,33 +14,42 @@
   {% if preview == empty %}
     <p>No projects found. Make sure your project pages are in <code>_projects/</code> and have <code>importance</code> in front matter.</p>
   {% else %}
-    <div class="projects-preview">
-      {% for project in preview %}
-        <article class="project-card">
-            {% assign thumb = project.img | default: project.thumbnail | default: '/assets/img/default-project.jpg' %}
-            <div class="thumb" style="background-image: url('{{ thumb | relative_url }}');"></div>
+    {% for project in preview %}
+    <div class="paper-row">
 
-            <div class="card-body">
-              <h4 class="project-title">{{ project.title }}</h4>
+      <!-- IMAGE -->
+      {% assign thumb = project.img | default: project.thumbnail | default: '/assets/img/default-project.jpg' %}
+      <div class="paper-thumb">
+        <img src="{{ thumb | relative_url }}" alt="{{ project.title }}">
+      </div>
 
-              {% if project.excerpt %}
-                <p class="excerpt">{{ project.excerpt }}</p>
-              {% else %}
-                {% capture intro %}{{ project.content | strip_html | truncate: 150 }}{% endcapture %}
-                <p class="excerpt">{{ intro }}</p>
-              {% endif %}
+      <!-- TEXT + BUTTONS -->
+      <div class="paper-info">
+        
+        <h3 class="paper-title">{{ project.title }}</h3>
 
-              <div class="project-meta">
-                {% if project.category %}<span class="meta-item">{{ project.category }}</span>{% endif %}
-                {% if project.tags %}<span class="meta-item">{{ project.tags | join: ", " }}</span>{% endif %}
-              </div>
-            </div>
-          </a>
-        </article>
-      {% endfor %}
+        {% if project.excerpt %}
+          <p class="paper-desc">{{ project.excerpt }}</p>
+        {% else %}
+          {% capture intro %}{{ project.content | strip_html | truncate: 160 }}{% endcapture %}
+          <p class="paper-desc">{{ intro }}</p>
+        {% endif %}
+
+        <!-- BUTTONS -->
+        <div class="paper-buttons">
+          {% if project.website %}<a class="paper-btn" href="{{ project.website }}" target="_blank">Website</a>{% endif %}
+          {% if project.demo %}<a class="paper-btn" href="{{ project.demo }}" target="_blank">Demo</a>{% endif %}
+          {% if project.slides %}<a class="paper-btn" href="{{ project.slides }}" target="_blank">Slides</a>{% endif %}
+          {% if project.github %}<a class="paper-btn" href="{{ project.github }}" target="_blank">GitHub</a>{% endif %}
+        </div>
+
+      </div>
     </div>
+    {% endfor %}
 
     <p><a class="view-all" href="{{ '/projects/' | relative_url }}">View all projects →</a></p>
+
   {% endif %}
 
 </div>
+
