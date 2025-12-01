@@ -1,16 +1,17 @@
 ---
 layout: page
-title: AutismLens – Diagnosis of Autism Spectrum Disorder Based on Facial Images
-description: Developed a ConvNeXt-based system for early autism diagnosis from facial images, distinguishing ASD from other neurodevelopmental disorders with 92% accuracy. Integrated Grad-CAM for explainable predictions to support clinicians and researchers.
+title: "AutismLens – Diagnosis of Autism Spectrum Disorder Based on Facial Images"
+description: "Developed a ConvNeXt-based system for early autism diagnosis from facial images, distinguishing ASD from other neurodevelopmental disorders with 92% accuracy. Integrated Grad-CAM for explainable predictions to support clinicians and researchers."
 img: assets/img/6.jpg
 importance: 7
 category: fun
 demo: "https://demo.com"
-slides: "[/assets/slides.pdf](https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
-github: "[https://github.com/example](https://github.com/janaalbader28/AutismLens)"
+slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+github: "https://github.com/janaalbader28/AutismLens"
 type: project
 poster: "https://linktr.ee/autismlens"
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
