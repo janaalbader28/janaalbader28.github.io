@@ -5,11 +5,12 @@ description: "Built an end-to-end AI and IoT solution using a Sony camera to det
 img: assets/img/6.jpg
 importance: 5
 category: fun
-slides: "[https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1YZxXxsPLLlC_RI1puEX7mUjXmm-WnXNw/view?usp=sharing)"
-demo: 
-website: 
+slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+demo: ""
+website: ""
 type: project
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
