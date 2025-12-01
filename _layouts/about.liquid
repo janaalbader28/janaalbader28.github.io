@@ -46,13 +46,8 @@ layout: default
 
 
 <!-- ONGOING PROJECTS -->
-<h3 class="section-title">ONGOING PROJECTS</h3>
-{% assign ongoing = site.projects | where: "type", "ongoing" %}
-<ul>
-{% for item in ongoing %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
-</ul>
+<h3 class="section-title">MY PROJECTS</h3>
+{% include project_list.liquid limit=6 %}
 <hr>
 
 
