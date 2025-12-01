@@ -1,15 +1,16 @@
 ---
+---
 layout: page
-title: project 6
-description: a project with no image
-img: "https://www.ntaskmanager.com/wp-content/uploads/2020/02/What-is-a-Project-1-scaled.jpg"
-importance: 4
+title: "Parallel Programming Scheduler (C++)"
+description: "Designed a C++ program that converts sequential scheduling tasks into parallel execution, optimizing performance. Demonstrates understanding of parallel programming, computational efficiency, and systems-level coding."
+img: assets/img/6.jpg
+importance: 3
 category: fun
-website: "https://example.com"
-demo: "https://demo.com"
-slides: "/assets/slides.pdf"
-github: "https://github.com/example"
-type: paper
+slides: "[https://www.canva.com/design/DAGnBoC_7yY/qV574YX8jBngRq4UIrPrPg/edit?utm_content=DAGnBoC_7yY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGY0V89yhQ/UxMHULW7Wy6lg2ex2yp8Xg/edit?utm_content=DAGY0V89yhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
+github: "[https://github.com/janaalbader28/LearnSphere_Android](https://github.com/janaalbader28/Parallel-Task-Scheduling-for-Deadline-Oriented-System)"
+type: project
+---
+
 
 ---
 
