@@ -51,9 +51,9 @@ ninja.data = [{
           description: "Implemented and compared Transformer and CNN architectures for waste image classification. Conducted experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-iot-amp-ai-visitor-monitoring-for-saudi-tourism",
+          title: 'IoT &amp;amp; AI Visitor Monitoring for Saudi Tourism',
+          description: "Built an end-to-end AI and IoT solution using a Sony camera to detect and count visitors, integrated with Cumulocity dashboards. Highlights real-world AI deployment, IoT integration, and data-driven decision making for tourism.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
