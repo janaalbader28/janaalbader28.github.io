@@ -47,19 +47,35 @@ layout: default
 
 <!-- ONGOING PROJECTS -->
 <h3 class="section-title">ONGOING PROJECTS</h3>
-{% include selected_papers.liquid %}
-
+{% assign ongoing = site.pages | where: "type", "ongoing" %}
+<ul>
+{% for item in ongoing %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
 <hr>
+
 
 <!-- MY PROJECTS -->
 <h3 class="section-title">MY PROJECTS</h3>
-{% include project_list.liquid limit=6 %}
-
+{% assign projects = site.pages | where: "type", "project" %}
+<ul>
+{% for item in projects %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
 <hr>
+
 
 <!-- WORKING PAPERS -->
 <h3 class="section-title">WORKING PAPERS</h3>
-{% include papers_list.liquid %}
+{% assign papers = site.pages | where: "type", "paper" %}
+<ul>
+{% for item in papers %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+
 
 
   </article>
