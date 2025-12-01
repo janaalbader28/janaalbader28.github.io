@@ -45,8 +45,8 @@ I am continuously exploring new areas in AI and data analytics, seeking opportun
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jana-albader" target="_blank" aria-label="LinkedIn"
      style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
-    <i class="fab fa-linkedin"></i>
-  </a>
+<i class="fab fa-linkedin-in"></i>
+</a>
 
   <!-- Email -->
   <a href="mailto:jana.ab.albader@gmail" target="_blank" aria-label="Email"
