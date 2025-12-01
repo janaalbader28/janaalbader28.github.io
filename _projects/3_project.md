@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Waste Classification: Transformers vs CNN
-description: Implemented and compared Transformer and CNN architectures for waste image classification. Conducted thorough experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques.
+description: Implemented and compared Transformer and CNN architectures for waste image classification. Conducted experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques.
 img: assets/img/6.jpg
 importance: 2
 category: fun
-slides: "[[/assets/slides.pdf](https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGmmPfjmOs/P8Wd9KC50Yfw9KgbTHgPtw/edit?utm_content=DAGmmPfjmOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
-github: "[[https://github.com/example](https://github.com/janaalbader28/AutismLens)](https://github.com/janaalbader28/Waste-Classification-ViT)"
+slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+github: "https://github.com/janaalbader28/Waste-Classification-ViT"
 type: project
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
