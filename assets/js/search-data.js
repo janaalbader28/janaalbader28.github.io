@@ -46,9 +46,9 @@ ninja.data = [{
           description: "Developed a ConvNeXt-based system for early autism diagnosis from facial images, distinguishing ASD from other neurodevelopmental disorders with 92% accuracy. Integrated Grad-CAM for explainable predictions to support clinicians and researchers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-waste-classification-transformers-vs-cnn",
+          title: 'Waste Classification: Transformers vs CNN',
+          description: "Implemented and compared Transformer and CNN architectures for waste image classification. Conducted experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
