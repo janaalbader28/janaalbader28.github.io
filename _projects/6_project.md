@@ -2,9 +2,13 @@
 layout: page
 title: project 6
 description: a project with no image
-img:
+img: "https://www.ntaskmanager.com/wp-content/uploads/2020/02/What-is-a-Project-1-scaled.jpg"
 importance: 4
 category: fun
+website: "https://example.com"
+demo: "https://demo.com"
+slides: "/assets/slides.pdf"
+github: "https://github.com/example"
 ---
 
 Every project has a beautiful feature showcase page.
