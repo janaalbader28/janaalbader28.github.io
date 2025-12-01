@@ -1,0 +1,17 @@
+{% assign papers = site.papers | sort: "year" | reverse %}
+
+<div class="papers-list">
+  {% for p in papers %}
+    <div class="paper-row">
+      <div class="paper-info">
+        <h3 class="paper-title">{{ p.title }}</h3>
+        <p class="paper-desc">{{ p.authors }}</p>
+
+        <div class="paper-buttons">
+          {% if p.paper %}<a class="paper-btn" href="{{ p.paper }}">Paper</a>{% endif %}
+          {% if p.website %}<a class="paper-btn" href="{{ p.website }}">Website</a>{% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
