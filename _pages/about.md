@@ -38,25 +38,25 @@ I am continuously exploring new areas in AI and data analytics, seeking opportun
 
   <!-- GitHub -->
   <a href="https://github.com/janaalbader28" target="_blank" aria-label="GitHub"
-     style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
+     style="display: flex; border: 1px solid #ccc;  align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
     <i class="fab fa-github"></i>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jana-albader" target="_blank" aria-label="LinkedIn"
-     style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
+     style="display: flex; border: 1px solid #ccc;  align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
 <i class="fab fa-linkedin-in"></i>
 </a>
 
   <!-- Email -->
   <a href="mailto:jana.ab.albader@gmail" target="_blank" aria-label="Email"
-     style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
+     style="display: flex;  border: 1px solid #ccc;  align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-size: 1.5rem;">
     <i class="fas fa-envelope"></i>
   </a>
 
   <!-- CV Button -->
   <a href="link-to-your-CV.pdf" target="_blank"
-     style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-weight: 500; font-size: 1rem;">
+     style="display: flex;  border: 1px solid #ccc;  align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-weight: 500; font-size: 1rem;">
     CV
   </a>
 
