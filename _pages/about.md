@@ -55,7 +55,7 @@ I am continuously exploring new areas in AI and data analytics, seeking opportun
   </a>
 
   <!-- CV Button -->
-  <a href="link-to-your-CV.pdf" target="_blank"
+  <a href="[link-to-your-CV.pdf](https://drive.google.com/file/d/1I5k1rFpnP10NX7UUhZ57FVtFy8d6JzoG/view?usp=sharing)" target="_blank"
      style="display: flex;  border: 1px solid #ccc;  align-items: center; justify-content: center; width: 50px; height: 50px;  border-radius: 12px; text-decoration: none; color: inherit; font-weight: 500; font-size: 1rem;">
     CV
   </a>
