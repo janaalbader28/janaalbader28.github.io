@@ -9,6 +9,8 @@ website: "https://example.com"
 demo: "https://demo.com"
 slides: "/assets/slides.pdf"
 github: "https://github.com/example"
+type: paper
+
 ---
 
 Every project has a beautiful feature showcase page.
