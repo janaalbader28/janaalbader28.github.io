@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: AutismLens – Diagnosis of Autism Spectrum Disorder Based on Facial Images
+description: another project with an image 🎉
+img: assets/img/6.jpg
+importance: 1
+category: fun
+demo: "https://demo.com"
+slides: "[/assets/slides.pdf](https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
+github: "[https://github.com/example](https://github.com/janaalbader28/AutismLens)"
+type: project
 ---
 
 Every project has a beautiful feature showcase page.
