@@ -47,7 +47,7 @@ layout: default
 
 <!-- ONGOING PROJECTS -->
 <h3 class="section-title">ONGOING PROJECTS</h3>
-{% assign ongoing = site.pages | where: "type", "ongoing" %}
+{% assign ongoing = site.projects | where: "type", "ongoing" %}
 <ul>
 {% for item in ongoing %}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
