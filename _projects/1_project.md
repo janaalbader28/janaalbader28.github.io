@@ -1,13 +1,10 @@
 ---
 layout: page
-title: AI Code Tutor
+title: Cognibot — Chatbot for Detecting Learning Style & Learning-Disability Signals
+description: Cognibot is an LLM-powered chatbot that analyzes students’ written and spoken explanations to infer learning style and early indicators of learning disabilities, then provides personalized learning-path suggestions and accessibility-aware content.
+img: assets/img/6.jpg
 importance: 1
-img: /assets/img/p1.png
-excerpt: Brief description of your project.
-website: "https://example.com"
-demo: "https://demo.com"
-slides: "/assets/slides.pdf"
-github: "https://github.com/example"
+category: fun
 type: ongoing
 
 ---
