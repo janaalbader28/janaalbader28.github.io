@@ -3,30 +3,30 @@
   <p>© Copyright {{ site.time | date: '%Y' }} Jana B. Albadr.</p>
 
   <style>
-   .site-footer {
+    .site-footer {
       display: flex;
       flex-direction: column;
-      align-items: center;
-      justify-content: center; /* centers content vertically */
+      align-items: center;      /* horizontal centering */
       text-align: center;
       font-size: 0.9rem;
       color: #666;
-      height: 60px; /* fixed height for balanced spacing */
+      padding: 0.5rem 0 1rem 0; /* space above and below text */
       margin: 0;
     }
 
     .footer-separator {
       border: none;
       height: 1px;
-      background: #ccc; /* very thin light-grey line */
+      background: #ccc;
       width: 100%;
-      margin: 0 0 0.5rem 0; /* small space below the line */
+      margin-bottom: 0.5rem;  /* space between line and text */
     }
 
-    /* Optional: adjust for dark mode */
+    /* Dark mode */
     body.dark-mode .site-footer {
       color: #aaa;
     }
+
     body.dark-mode .footer-separator {
       background: #555;
     }
