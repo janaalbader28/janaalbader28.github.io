@@ -46,6 +46,8 @@ body.dark-mode {
   background: transparent;
   padding: 1.2rem;
   border-radius: 12px;
+    box-shadow: none; 
+
 }
 
 body.dark-mode {
@@ -115,7 +117,6 @@ body.dark-mode {
   padding: 0.35rem 0.75rem;
   font-size: 0.85rem;
   border-radius: 6px;
- /* border: 1px solid #d0d0d0;*/
   background: #f7f7f7;
   color: #333;
   text-decoration: none;
@@ -133,6 +134,8 @@ body.dark-mode {
   font-size: 1.4rem;
   margin: 2rem 0 1rem 0;
   letter-spacing: 0.3px;
+    font-weight: 300;
+
 }
 
 .papers-list {
