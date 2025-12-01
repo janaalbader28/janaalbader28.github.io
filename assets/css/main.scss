@@ -117,9 +117,10 @@ body.dark-mode {
   padding: 0.35rem 0.75rem;
   font-size: 0.85rem;
   border-radius: 6px;
-  background: #f7f7f7;
+/*  background: #f7f7f7;*/
   color: #333;
   text-decoration: none;
+  border: 1px solid #ccc; 
 }
 
 .paper-btn:hover {
