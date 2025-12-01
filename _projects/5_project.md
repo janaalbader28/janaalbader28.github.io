@@ -1,10 +1,14 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: "LearnShore Mobile App (iOS + Android)
+description: "Created a cross-platform mobile app (Swift for iOS, Java for Android) to help users learn programming courses. Showcases UI/UX design, app development, and content-driven multi-platform implementation."
+img: assets/img/6.jpg
+importance: 4
 category: fun
+slides: "https://www.canva.com/design/DAGnBoC_7yY/qV574YX8jBngRq4UIrPrPg/edit?utm_content=DAGnBoC_7yY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+demo: "https://youtu.be/AFI27tisc1M?si=vE_zW05Fek0LU-WJ"
+github:"https://github.com/janaalbader28/LearnSphere_Android" 
+type: project
 ---
 
 Every project has a beautiful feature showcase page.
