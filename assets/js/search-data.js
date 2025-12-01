@@ -56,9 +56,9 @@ ninja.data = [{
           description: "Built an end-to-end AI and IoT solution using a Sony camera to detect and count visitors, integrated with Cumulocity dashboards. Highlights real-world AI deployment, IoT integration, and data-driven decision making for tourism.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
