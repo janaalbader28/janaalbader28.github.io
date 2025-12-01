@@ -61,9 +61,9 @@ ninja.data = [{
           description: "Created a cross-platform mobile app (Swift for iOS, Java for Android) to help users learn programming courses. Showcases UI/UX design, app development, and content-driven multi-platform implementation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-6-project",
-          title: '6_project',
-          description: "",
+            },},{id: "projects-parallel-programming-scheduler-c",
+          title: 'Parallel Programming Scheduler (C++)',
+          description: "Designed a C++ program that converts sequential scheduling tasks into parallel execution, optimizing performance. Demonstrates understanding of parallel programming, computational efficiency, and systems-level coding.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
