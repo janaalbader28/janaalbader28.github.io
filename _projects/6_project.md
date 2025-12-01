@@ -1,17 +1,13 @@
 ---
----
 layout: page
 title: "Parallel Programming Scheduler (C++)"
 description: "Designed a C++ program that converts sequential scheduling tasks into parallel execution, optimizing performance. Demonstrates understanding of parallel programming, computational efficiency, and systems-level coding."
 img: assets/img/6.jpg
 importance: 3
 category: fun
-slides: "[https://www.canva.com/design/DAGnBoC_7yY/qV574YX8jBngRq4UIrPrPg/edit?utm_content=DAGnBoC_7yY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGY0V89yhQ/UxMHULW7Wy6lg2ex2yp8Xg/edit?utm_content=DAGY0V89yhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
-github: "[https://github.com/janaalbader28/LearnSphere_Android](https://github.com/janaalbader28/Parallel-Task-Scheduling-for-Deadline-Oriented-System)"
+slides: "https://www.canva.com/design/DAGY0V89yhQ/UxMHULW7Wy6lg2ex2yp8Xg/edit?utm_content=DAGY0V89yhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+github: "https://github.com/janaalbader28/Parallel-Task-Scheduling-for-Deadline-Oriented-System"
 type: project
----
-
-
 ---
 
 Every project has a beautiful feature showcase page.
