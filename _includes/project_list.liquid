@@ -1,0 +1,31 @@
+{% assign items = site.projects | sort: "importance" | reverse %}
+{% if include.limit %}
+  {% assign items = items | slice: 0, include.limit %}
+{% endif %}
+
+<div class="papers-list">
+  {% for project in items %}
+    <div class="paper-row">
+
+      <div class="paper-thumb">
+        <img src="{{ project.img | default: project.thumbnail | relative_url }}" alt="{{ project.title }}">
+      </div>
+
+      <div class="paper-info">
+        <h3 class="paper-title">{{ project.title }}</h3>
+
+        <p class="paper-desc">
+          {{ project.description | default: project.excerpt }}
+        </p>
+
+        <div class="paper-buttons">
+          {% if project.website %}<a class="paper-btn" href="{{ project.website }}" target="_blank">Website</a>{% endif %}
+          {% if project.demo %}<a class="paper-btn" href="{{ project.demo }}" target="_blank">Demo</a>{% endif %}
+          {% if project.slides %}<a class="paper-btn" href="{{ project.slides }}" target="_blank">Slides</a>{% endif %}
+          {% if project.github %}<a class="paper-btn" href="{{ project.github }}" target="_blank">GitHub</a>{% endif %}
+        </div>
+      </div>
+
+    </div>
+  {% endfor %}
+</div>
