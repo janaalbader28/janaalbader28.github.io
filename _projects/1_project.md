@@ -1,4 +1,5 @@
 ---
+layout: default
 title: AI Code Tutor
 importance: 1
 img: /assets/img/p1.png
