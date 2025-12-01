@@ -5,7 +5,7 @@ description: "Developed a ConvNeXt-based system for early autism diagnosis from 
 img: assets/img/6.jpg
 importance: 7
 category: fun
-demo: "https://demo.com"
+demo: ""
 slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 github: "https://github.com/janaalbader28/AutismLens"
 type: project
