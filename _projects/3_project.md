@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Waste Classification: Transformers vs CNN
-description: Implemented and compared Transformer and CNN architectures for waste image classification. Conducted experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques.
+title: "Waste Classification: Transformers vs CNN"
+description: "Implemented and compared Transformer and CNN architectures for waste image classification. Conducted experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques."
 img: assets/img/6.jpg
 importance: 2
 category: fun
@@ -9,6 +9,7 @@ slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?ut
 github: "https://github.com/janaalbader28/Waste-Classification-ViT"
 type: project
 ---
+
 
 
 Every project has a beautiful feature showcase page.
