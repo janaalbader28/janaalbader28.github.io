@@ -45,25 +45,22 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h3>
-        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">ONGOING PROJECTS</a>
-      </h3>
-      {% include selected_papers.liquid %}
-    {% endif %}
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
+<!-- ONGOING PROJECTS -->
+<h3 class="section-title">ONGOING PROJECTS</h3>
+{% include selected_papers.liquid %}
 
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
+<hr>
 
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
+<!-- MY PROJECTS -->
+<h3 class="section-title">MY PROJECTS</h3>
+{% include project_list.liquid limit=6 %}
+
+<hr>
+
+<!-- WORKING PAPERS -->
+<h3 class="section-title">WORKING PAPERS</h3>
+{% include papers_list.liquid %}
+
 
   </article>
 </div>
