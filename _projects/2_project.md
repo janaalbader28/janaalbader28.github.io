@@ -9,6 +9,7 @@ demo: "https://demo.com"
 slides: "[/assets/slides.pdf](https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
 github: "[https://github.com/example](https://github.com/janaalbader28/AutismLens)"
 type: project
+poster: "https://linktr.ee/autismlens"
 ---
 
 Every project has a beautiful feature showcase page.
