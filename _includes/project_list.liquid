@@ -1,7 +1,15 @@
-{% assign items = site.projects | sort: "importance" | reverse %}
+{% assign items = site.projects %}
+
+{% if include.type %}
+  {% assign items = items | where: "type", include.type %}
+{% endif %}
+
+{% assign items = items | sort: "importance" | reverse %}
+
 {% if include.limit %}
   {% assign items = items | slice: 0, include.limit %}
 {% endif %}
+
 
 <div class="papers-list">
   {% for project in items %}
