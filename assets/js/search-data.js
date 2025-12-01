@@ -61,9 +61,9 @@ ninja.data = [{
           description: "Created a cross-platform mobile app (Swift for iOS, Java for Android) to help users learn programming courses. Showcases UI/UX design, app development, and content-driven multi-platform implementation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-6-project",
+          title: '6_project',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
