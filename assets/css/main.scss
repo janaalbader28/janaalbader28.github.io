@@ -24,6 +24,38 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+/* Minimal navbar styling for clean look */
+.navbar {
+  background: transparent;
+  border-bottom: none;
+  padding: 0.6rem 0;
+}
+
+/* Keep brand visually subtle */
+.navbar-brand.title {
+  font-size: 1.05rem;
+  color: #1a73e8; /* adjust to your link color if wanted */
+  text-decoration: none;
+}
+
+/* Simple ghost button for the theme toggle */
+.btn.btn-ghost {
+  background: #f7f7f7;
+  border: 1px solid #e0e0e0;
+  padding: 0.4rem 0.55rem;
+  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Slight hover */
+.btn.btn-ghost:hover { transform: translateY(-1px); }
+
+/* Ensure container keeps brand left and toggle right */
+.nav-controls { margin-left: 1rem; }
+
+
 /* Horizontal paper-style layout */
 .papers-list {
   display: flex;
