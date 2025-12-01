@@ -1,17 +1,15 @@
 <footer class="site-footer">
   <hr class="footer-separator">
-  <p>© Copyright {{ site.time | date: '%Y' }} Jana B. Albadr.</p>
+  <div class="footer-text">
+    <p>© Copyright {{ site.time | date: '%Y' }} Jana B. Albadr.</p>
+  </div>
 
   <style>
     .site-footer {
-      display: flex;
-      flex-direction: column;
-      align-items: center;      /* horizontal centering */
       text-align: center;
       font-size: 0.9rem;
       color: #666;
-      padding: 0.5rem 0 1rem 0; /* space above and below text */
-      margin: 0;
+      padding: 0.5rem 0;
     }
 
     .footer-separator {
@@ -19,7 +17,14 @@
       height: 1px;
       background: #ccc;
       width: 100%;
-      margin-bottom: 0.5rem;  /* space between line and text */
+      margin-bottom: 0.5rem;
+    }
+
+    .footer-text {
+      display: flex;
+      align-items: center;      /* vertical centering */
+      justify-content: center;  /* horizontal centering */
+      height: 40px;             /* gives space above and below text */
     }
 
     /* Dark mode */
