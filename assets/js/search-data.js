@@ -56,9 +56,9 @@ ninja.data = [{
           description: "Built an end-to-end AI and IoT solution using a Sony camera to detect and count visitors, integrated with Cumulocity dashboards. Highlights real-world AI deployment, IoT integration, and data-driven decision making for tourism.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-learnshore-mobile-app-ios-android",
+          title: 'LearnShore Mobile App (iOS + Android)',
+          description: "Created a cross-platform mobile app (Swift for iOS, Java for Android) to help users learn programming courses. Showcases UI/UX design, app development, and content-driven multi-platform implementation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
