@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AutismLens – Diagnosis of Autism Spectrum Disorder Based on Facial Images
-description: another project with an image 🎉
+description: Developed a ConvNeXt-based system for early autism diagnosis from facial images, distinguishing ASD from other neurodevelopmental disorders with 92% accuracy. Integrated Grad-CAM for explainable predictions to support clinicians and researchers.
 img: assets/img/6.jpg
 importance: 1
 category: fun
