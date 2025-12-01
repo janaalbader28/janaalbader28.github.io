@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: AI Code Tutor
 importance: 1
 img: /assets/img/p1.png
@@ -8,6 +8,8 @@ website: "https://example.com"
 demo: "https://demo.com"
 slides: "/assets/slides.pdf"
 github: "https://github.com/example"
+
+
 ---
 
 Every project has a beautiful feature showcase page.
