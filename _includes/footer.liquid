@@ -3,19 +3,24 @@
   <p>© Copyright {{ site.time | date: '%Y' }} Jana B. Albadr.</p>
 
   <style>
-    .site-footer {
+   .site-footer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center; /* centers content vertically */
       text-align: center;
       font-size: 0.9rem;
       color: #666;
-      padding: 1rem 0;
+      height: 60px; /* fixed height for balanced spacing */
+      margin: 0;
     }
 
     .footer-separator {
       border: none;
       height: 1px;
       background: #ccc; /* very thin light-grey line */
-      margin-bottom: 0.5rem;
       width: 100%;
+      margin: 0 0 0.5rem 0; /* small space below the line */
     }
 
     /* Optional: adjust for dark mode */
