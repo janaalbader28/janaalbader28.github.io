@@ -2,7 +2,7 @@
 layout: page
 title: Cognibot — Chatbot for Detecting Learning Style & Learning-Disability Signals
 description: Cognibot is an LLM-powered chatbot that analyzes students’ written and spoken explanations to infer learning style and early indicators of learning disabilities, then provides personalized learning-path suggestions and accessibility-aware content.
-img: assets/img/6.jpg
+img: assets/img/1.png
 importance: 1
 category: fun
 type: ongoing
