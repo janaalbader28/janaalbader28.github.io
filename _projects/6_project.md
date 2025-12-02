@@ -2,7 +2,7 @@
 layout: page
 title: "Parallel Programming Scheduler (C++)"
 description: "Designed a C++ program that converts sequential scheduling tasks into parallel execution, optimizing performance. Demonstrates understanding of parallel programming, computational efficiency, and systems-level coding."
-img: assets/img/5.png
+img: assets/img/6.png
 importance: 3
 category: fun
 slides: "https://www.canva.com/design/DAGY0V89yhQ/UxMHULW7Wy6lg2ex2yp8Xg/edit?utm_content=DAGY0V89yhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
