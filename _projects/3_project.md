@@ -6,6 +6,8 @@ img: assets/img/3.png
 importance: 6
 category: fun
 slides: "https://www.canva.com/design/DAGmmPfjmOs/P8Wd9KC50Yfw9KgbTHgPtw/edit?utm_content=DAGmmPfjmOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+github: "https://github.com/janaalbader28/Waste-Classification-ViT"
+
 type: project
 ---
 
