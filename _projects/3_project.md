@@ -2,7 +2,7 @@
 layout: page
 title: "Waste Classification: Transformers vs CNN"
 description: "Implemented and compared Transformer and CNN architectures for waste image classification. Conducted experiments and evaluations, demonstrating expertise in AI research and modern deep learning techniques."
-img: assets/img/2.png
+img: assets/img/3.png
 importance: 6
 category: fun
 slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
