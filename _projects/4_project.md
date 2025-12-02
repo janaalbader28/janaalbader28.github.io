@@ -5,7 +5,7 @@ description: "Built an end-to-end AI and IoT solution using a Sony camera to det
 img: assets/img/4.png
 importance: 5
 category: fun
-slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+slides: "https://drive.google.com/file/d/1YZxXxsPLLlC_RI1puEX7mUjXmm-WnXNw/view?usp=sharing"
 demo: ""
 website: ""
 type: project
