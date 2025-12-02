@@ -2,7 +2,7 @@
 layout: page
 title: "IoT & AI Visitor Monitoring for Saudi Tourism"
 description: "Built an end-to-end AI and IoT solution using a Sony camera to detect and count visitors, integrated with Cumulocity dashboards. Highlights real-world AI deployment, IoT integration, and data-driven decision making for tourism."
-img: assets/img/3.png
+img: assets/img/4.png
 importance: 5
 category: fun
 slides: "https://www.canva.com/design/DAGZqX43hGk/d922vyqeuuZaiSM9BBPAew/edit?utm_content=DAGZqX43hGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
