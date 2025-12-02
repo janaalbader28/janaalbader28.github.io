@@ -2,7 +2,7 @@
 layout: page
 title: "LearnShore Mobile App (iOS + Android)"
 description: "Created a cross-platform mobile app (Swift for iOS, Java for Android) to help users learn programming courses. Showcases UI/UX design, app development, and content-driven multi-platform implementation."
-img: assets/img/4.png
+img: assets/img/5.png
 importance: 4
 category: fun
 slides: "https://www.canva.com/design/DAGnBoC_7yY/qV574YX8jBngRq4UIrPrPg/edit?utm_content=DAGnBoC_7yY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
