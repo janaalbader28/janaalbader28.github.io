@@ -6,8 +6,8 @@ img: assets/img/4.png
 importance: 5
 category: fun
 slides: "https://drive.google.com/file/d/1YZxXxsPLLlC_RI1puEX7mUjXmm-WnXNw/view?usp=sharing"
-demo: ""
-website: ""
+demo: 
+website: 
 type: project
 ---
 
