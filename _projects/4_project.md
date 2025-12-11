@@ -7,7 +7,7 @@ importance: 5
 category: fun
 slides: "https://drive.google.com/file/d/1YZxXxsPLLlC_RI1puEX7mUjXmm-WnXNw/view?usp=sharing"
 demo: "https://drive.google.com/file/d/1-312r9alVFmfOnfkfcjakMi7CFdS--jR/view?usp=sharing"
-website: 
+website: "https://flowsenseai.replit.app/"
 type: project
 ---
 
