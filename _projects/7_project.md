@@ -7,7 +7,7 @@ importance: 3
 category: fun
 slides: "https://www.canva.com/design/DAG9TDqyxh0/7CPW108TPFgEUjS-cqU0Tg/edit?utm_content=DAG9TDqyxh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 github: "https://github.com/janaalbader28/CodeAI"
-demo:"https://youtu.be/QixyjqqHEhA?si=jp5WSyiuoc61Gh8R"
+demo: "https://youtu.be/QixyjqqHEhA?si=jp5WSyiuoc61Gh8R"
 type: project
 ---
 
