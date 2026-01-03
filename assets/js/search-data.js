@@ -66,9 +66,9 @@ ninja.data = [{
           description: "Designed a C++ program that converts sequential scheduling tasks into parallel execution, optimizing performance. Demonstrates understanding of parallel programming, computational efficiency, and systems-level coding.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-codeai-ai-help-right-where-you-code",
+          title: 'CodeAI - AI help, right where you code',
+          description: "Developed a web platform with a Chrome extension that uses AI to help users understand, debug, and improve code, identify learning weak points, track progress, and practice through interactive challenges.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
