@@ -66,9 +66,9 @@ ninja.data = [{
           description: "Designed a C++ program that converts sequential scheduling tasks into parallel execution, optimizing performance. Demonstrates understanding of parallel programming, computational efficiency, and systems-level coding.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
