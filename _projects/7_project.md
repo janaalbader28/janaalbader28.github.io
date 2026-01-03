@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+title: "CodeAI - AI help, right where you code"
+description: "Developed a web platform with a Chrome extension that uses AI to help users understand, debug, and improve code, identify learning weak points, track progress, and practice through interactive challenges."
+img: assets/img/7.png
+importance: 3
+category: fun
+slides: "https://www.canva.com/design/DAG9TDqyxh0/7CPW108TPFgEUjS-cqU0Tg/edit?utm_content=DAG9TDqyxh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+github: "https://github.com/janaalbader28/CodeAI"
+demo:"https://youtu.be/QixyjqqHEhA?si=jp5WSyiuoc61Gh8R"
+type: project
 ---
 
 Every project has a beautiful feature showcase page.
