@@ -3,7 +3,7 @@ layout: page
 title: "CodeAI - AI help, right where you code"
 description: "Developed a web platform with a Chrome extension that uses AI to help users understand, debug, and improve code, identify learning weak points, track progress, and practice through interactive challenges."
 img: assets/img/7.png
-importance: 3
+importance: 2
 category: fun
 slides: "https://www.canva.com/design/DAG9TDqyxh0/7CPW108TPFgEUjS-cqU0Tg/edit?utm_content=DAG9TDqyxh0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 github: "https://github.com/janaalbader28/CodeAI"
