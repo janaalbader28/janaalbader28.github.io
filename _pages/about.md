@@ -56,7 +56,8 @@ I am continuously exploring new areas in AI and data analytics, seeking opportun
 
   <!-- CV Button -->
 <!-- CV Button -->
-<a href="https://drive.google.com/file/d/1I5k1rFpnP10NX7UUhZ57FVtFy8d6JzoG/view?usp=sharing" target="_blank"
+<!-- <a href="https://drive.google.com/file/d/1I5k1rFpnP10NX7UUhZ57FVtFy8d6JzoG/view?usp=sharing" target="_blank" -->
+<a
    style="display: flex; border: 1px solid #ccc; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 12px; text-decoration: none; color: inherit; font-weight: 500; font-size: 1rem;">
   CV
 </a>
