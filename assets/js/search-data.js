@@ -36,11 +36,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-cognibot-chatbot-for-detecting-learning-style-amp-learning-disability-signals",
-          title: 'Cognibot — Chatbot for Detecting Learning Style &amp;amp; Learning-Disability Signals',
-          description: "Cognibot is an LLM-powered chatbot that analyzes students’ written and spoken explanations to infer learning style and early indicators of learning disabilities, then provides personalized learning-path suggestions and accessibility-aware content.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-autismlens-diagnosis-of-autism-spectrum-disorder-based-on-facial-images",
           title: 'AutismLens – Diagnosis of Autism Spectrum Disorder Based on Facial Images',
           description: "Developed a ConvNeXt-based system for early autism diagnosis from facial images, distinguishing ASD from other neurodevelopmental disorders with 92% accuracy. Integrated Grad-CAM for explainable predictions to support clinicians and researchers.",
